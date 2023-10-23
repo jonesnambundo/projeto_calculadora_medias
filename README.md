@@ -1,4 +1,4 @@
-# projeto_calculadora_medias
+# Projeto_calculadora_medias
 
 Objectivo deste trabalho é de criar uma aplicação de agenda de contatos.
 
@@ -6,5 +6,5 @@ Objectivo deste trabalho é de criar uma aplicação de agenda de contatos.
 - Nome
 - Telefone
 
-  ## Construa um formulário no qual :
+## Construa um formulário no qual :
   o usuário irá inserir o nome e telefone do contato e, ao clicar em cadastrar, uma linha será adicionada na tabela de contatos.
